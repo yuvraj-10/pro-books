@@ -1,0 +1,15 @@
+#searchbar{
+    width:98%;
+    height:25px;
+    border:2px solid black;
+    margin:5px 5px;
+    outline: none;
+}
+.search{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+}
+#head{
+    font-weight: bold;
+}
